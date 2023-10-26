@@ -6,7 +6,8 @@ This repository contains a project that uses deep learning techniques to recogni
 Created for Ngee Ann Polytechnic School of Infocomm Technology ORION Special Interest Group's ICTXLE. This repository was used to introduce Middle School students to the world of Data Science & AI.
 
 ## Dataset
-The [dataset](https://www.kaggle.com/datasets/gpreda/chinese-mnist) comprises 15,000 hand-drawn images of Chinese numbers, which are preprocessed and labeled for use in training and testing the neural network model.
+![image](https://github.com/ssim3/Chinese-Number-Recognition-NN/assets/93330584/24011d19-fa27-4674-928e-551ce0075295)
+The [dataset](https://www.kaggle.com/datasets/gpreda/chinese-mnist) from MNIST comprises 15,000 hand-drawn images of Chinese numbers, which are preprocessed and labeled for use in training and testing the neural network model.
 
 ## Key Features
 Neural Network Architecture: The repository contains the code for a deep learning model tailored for recognizing Chinese numbers. The architecture consists of 5 layers (Input, 3 Hidden Layers, Output Layer)
