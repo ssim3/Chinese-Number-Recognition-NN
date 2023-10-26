@@ -20,11 +20,17 @@ Model Performance : 83% Accuracy
 To get started with this project, follow these steps:
 
 Download the dataset from Kaggle.
-Clone this repository.
-Use the provided Jupyter Notebooks or Python scripts to train and evaluate the model.
-Make predictions on your own Chinese number images.
-Dependencies
+1. Clone this repository.
+2. Use the provided Jupyter Notebooks or Python scripts to train and evaluate the model.
+3. Make predictions on your own Chinese number images.
+   
+## Dependencies
 This project relies on popular deep learning libraries such as TensorFlow, and OpenCV. You may need to install additional Python packages as specified in the requirements file.
+
+` pip install tensorflow `
+` pip install opencv-python `
+` pip install matplotlib `
+` pip install numpy ` 
 
 ## Contributing
 Contributions are welcome! If you have ideas for improving the model, enhancing the dataset, or any other suggestions, feel free to submit pull requests.
